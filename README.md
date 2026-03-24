@@ -1,6 +1,6 @@
-# Hodophile
+# Traveller
 
-Find the mathematical minimum for group travel. Hodophile syncs traveler schedules and uses real-time scraping of Google Flights to find the best central meeting hub.
+Find the mathematical minimum for group travel. Traveller syncs traveler schedules and uses real-time scraping of Google Flights to find the best central meeting hub.
 
 ## Architecture
 - **Backend**: FastAPI (Python 3.11+) orchestrating 4 AI agents (Scout, Matchmaker, Neighborhood, Optimizer).
